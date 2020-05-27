@@ -1,0 +1,4 @@
+rootProject.name='05_26_Store'
+include ':app'
+include ':internal_storage'
+include ':external_storage'
