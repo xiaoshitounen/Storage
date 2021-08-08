@@ -2,4 +2,4 @@
 
 Android:文件操作
 
-博客：[文件操作](https://fanandjiu.com/%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/)
+博客：[文件操作](http://www.fanandjiu.com/article/95495db.html)
